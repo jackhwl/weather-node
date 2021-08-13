@@ -70,3 +70,4 @@ Narrow type of a value to a primitive type: number, string, boolean, symbol
 * install heroku cli win64 
 ## 64. Integrating Git
 ## 67. Deploying Node.js to Heroku
+## 69. Avoiding Global Modules
